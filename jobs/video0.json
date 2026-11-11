@@ -1,0 +1,20 @@
+{
+  "title": "5 Scientific Mysteries",
+  "resolution": "1920x1080",
+  "fps": 30,
+  "scenes": [
+    {
+      "image": "scene_01.jpg",
+      "duration": 15,
+      "effect": "zoom_in"
+    },
+    {
+      "image": "scene_02.jpg",
+      "duration": 20,
+      "effect": "pan_right"
+    }
+  ],
+  "narration": "narration.mp3",
+  "music": "background.mp3",
+  "subtitles": "subtitles.srt"
+}
